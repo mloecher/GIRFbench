@@ -20,7 +20,7 @@ class PSeq_Excite_PE(Pseq_Base):
         self.N_pe = N_pe
         self.thickness = thickness
         self.tbw = tbw
-        self.flip = flip
+        self.flip = flip * np.pi / 180
         self.app = app
         
         if max_slew is not None:
