@@ -1,4 +1,4 @@
-Future development is being moved to github.com/cmr-group/GIRFbench
+Future development is being moved to https://github.com/cmr-group/GIRFbench
 
 # GIRFbench
 
