@@ -1,3 +1,5 @@
+Future development is being moved to github.com/cmr-group/GIRFbench
+
 # GIRFbench
 
 GIRFbench is a collection of tools and sequences for measuring, processing, and comparing gradient impulse repsonse functions (GIRF).
